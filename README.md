@@ -50,10 +50,10 @@ For example choose Core 0. Next, connect the device to USB and run main script
     Number - "-1.23" - [ 10|1|0_1|1|1_2|1|0_3|1|0 ]
     Number - "56.3"  - [  0|0|0_5|1|0_6|1|1_3|1|0 ]
 
-Fox example, hardcode PuTTY connect and enter "12.34" <br />
-![Script demonstration](images/putty_example.png)
+Fox example, hardcode PuTTY connect and enter "12.34" <br /> <br />
+![Script demonstration](images/putty_example.png) 
 
-When Intelij IDEA run default Java "Hello, World" project :D <br />
+When Intelij IDEA run default Java "Hello, World" project :D <br /> <br />
 ![Check temperature demostration](images/test_check.jpg)
     
     
