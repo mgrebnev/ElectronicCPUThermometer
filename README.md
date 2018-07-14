@@ -7,10 +7,10 @@ ECT allows you to transfer the temperature value of the CPU or any other PC comp
 ### Schematic diagram
 ![Schematic diagram](images/Schematic_diagram.png)
 
-T1-T4 - 2N2222 or any NPN transistor
-RT1-RT4 - 4.7K OHM resistor
-R1-R8 - 400-500 OHM resistor (recommended 470 OHM)
-LED display - sh5461as
+T1-T4 - 2N2222 or any NPN transistor <br />
+RT1-RT4 - 4.7K OHM resistor <br />
+R1-R8 - 400-500 OHM resistor (recommended 470 OHM) <br />
+LED display - sh5461as <br />
 
 ### How to use
 
